@@ -13,8 +13,6 @@ from .filters import GoodsFilter
 from .serializers import GoodsSerializer, CategorySerializer
 
 
-
-
 # 使用APIView情况 等级1
 # class GoodsListView(APIView):
 #     """
